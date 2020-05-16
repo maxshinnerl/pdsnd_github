@@ -1,4 +1,3 @@
-
 # load in files and ggplot
 
 ny = read.csv('new_york_city.csv')

@@ -1,3 +1,6 @@
+### NOTE:
+This is the R version of the class project (not python)
+
 ### Date created
 April 25, 2020
 
