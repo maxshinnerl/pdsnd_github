@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+April 25, 2020
 
 ### Project Title
-Replace the Project Title
+Explore Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The R script asks and provides answers to three meaningful questions
+about a bikeshare database for three cities.  The project provides
+visual representations of findings.
 
 ### Files used
-Include the files used
+washington.csv
+new-york.csv
+chicago.csv
+Explore_bikeshare_data.r
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+n/a
