@@ -27,7 +27,7 @@ res1 <- data.frame(
   averageTime = c(washAvg/60, chiAvg/60, nyAvg/60)
   )
 
-head(res1)
+#  head(res1)  commented this out (refactored) ;p
 
 
 # graph each city's mean travel time separately to compare the three

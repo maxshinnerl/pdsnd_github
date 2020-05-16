@@ -20,3 +20,6 @@ Explore_bikeshare_data.r
 
 ### Credits
 n/a
+
+### Creator
+Max Shinnerl
